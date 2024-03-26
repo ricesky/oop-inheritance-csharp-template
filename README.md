@@ -24,7 +24,7 @@
 
 ## Soal-soal
 
-### BookVehicle
+### Books
 
 Buat solusi dari soal ini di project `Solution` folder `Books` dengan namespace `Solution.Books`.
 
